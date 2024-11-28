@@ -1,0 +1,6 @@
+#mutation AddCountry($code: String!, $name: String!, $continentCode: String!) {
+#    addCountry(input: {code: $code, name: $name, continentCode: $continentCode}) {
+#        code
+#        name
+#    }
+#}

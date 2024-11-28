@@ -1,0 +1,6 @@
+#subscription OnCountryAdded {
+#    countryAdded {
+#        code
+#        name
+#    }
+#}
